@@ -1,4 +1,4 @@
 # Icons
 
-This is a free icon pack from different games
-Be happy!
+Compilado libre de iconos e imagenes para utilizar libremente
+Espero les guste!
